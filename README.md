@@ -1,4 +1,5 @@
 # QR-code-generator-
+https://qr-code-generator.mehfoojalam.repl.co/
 
 A simple web application to generate and download QR codes from URLs.
 
